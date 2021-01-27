@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melih Can Udül</h1>
-<h3 align="center">A Passionate Frontend Developer From Turkey</h3>
+<h3 align="center">A Passionate .Net Core Developer From Turkey</h3>
 
 <h4 style="font-weight:bold">📫 How to reach me<a href="mailto:melihh.2580@gmail.com">  melihh.2580@gmail.com  </a></h4>
 <h3 align="left">Languages and Tools:</h3>
