@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Melih Can Udül</h1>
+<h1 align="center">Hi 👋, 
+My name is MELİH CAN UDÜL</h1>
 <h3 align="center">A Passionate .Net Core Developer From Turkey</h3>
 
 <h4 style="font-weight:bold">📫 How to reach me<a href="mailto:melihh.2580@gmail.com">  melihh.2580@gmail.com  </a></h4>
